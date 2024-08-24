@@ -44,11 +44,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/coffee';
     
@@ -80,11 +80,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/wprandom';
     
@@ -116,11 +116,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/cristianoronaldo';
     
@@ -152,11 +152,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/messi';
     
@@ -188,11 +188,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/navidad';
     
@@ -224,11 +224,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/wpmountain';
     
@@ -260,11 +260,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/pubg';
     
@@ -296,11 +296,11 @@ cmd({
 async (Void, citel, text, { isCreator }) => {
     citel.reply('⏳Downloading...')
     let msg = `╔══════⊰⊱═══════╗
-      𝓒𝓡𝓐𝓩𝓨 𝓜𝓓 𝓦𝓐𝓛𝓛𝓟𝓐𝓟𝓔𝓡
+      SEKIRYUUTEI-MD WALLPAPER
 ╚══════⊰⊱═══════╝
 
 
-             ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀᴀᴢʏ-ᴍᴅ²³⁷`;
+             ᴘᴏᴡᴇʀᴇᴅ ʙʏ sekiryuutei-md`;
     try {
        let apiUrl = 'https://api.cafirexos.com/api/wallpaper/wpgaming';
     
