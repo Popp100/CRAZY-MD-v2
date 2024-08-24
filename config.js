@@ -3,18 +3,18 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-process.env.OWNER_NUMBER = process.env.OWNER_NUMBER || '237694268225'
+process.env.OWNER_NUMBER = process.env.OWNER_NUMBER || '224620780851'
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'crazycvv@gmail.com'
-global.github = 'https://github.com/CrazyPrince/CRAZY-MD'
+global.github = 'https://github.com/Popp100/CRAZY-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || "237620114013"
-global.devs = "237620114013";
-global.website = 'https://github.com/CrazyPrince/CRAZY-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/984e15c49561a5dd9d112.jpg'
+global.sudo = process.env.SUDO || "22891442720"
+global.devs = "22891442720";
+global.website = 'https://github.com/Popp100/CRAZY-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://pm1.narvii.com/6596/860938699b2ffeb8ced610003e8aa1742a0ccc16_hq.jpg'
 
 
 
